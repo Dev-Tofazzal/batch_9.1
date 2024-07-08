@@ -52,3 +52,54 @@
     letter-spacing: 0%;
     text-align: center;
 }
+/* banner part end here */
+
+/* 65% section part start here */
+
+.sixty_five_container{
+    width: 802px;
+    height: 800px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+.sixty_five_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+.sixty_five_content h1{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    padding-bottom: 48px;
+    
+}
+.sixty_five_content p{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 16px;
+    
+}
+.sixty_five_content h3{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    
+}
+
+.sixty_img_container{
+    width: 802px;
+    height: 500px;
+
+}
+.sixty_img_container img{
+    width: 100%;
+    height: 100%;
+
+}
